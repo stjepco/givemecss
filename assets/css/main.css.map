@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.styl","main.css"],"names":[],"mappings":"AAEA;EACI,uBAAA;EACA,gBAAA;EACA,uBAAA;CCDH","file":"main.css","sourcesContent":["$color = #afa\n\nbody\n    background-color: $color\n    font-size: 30px;\n    background-color #aaa","body {\n  background-color: #afa;\n  font-size: 30px;\n  background-color: #aaa;\n}\n"],"sourceRoot":"/source/"}
